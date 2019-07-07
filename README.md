@@ -7,13 +7,5 @@
 
 ![](https://github.com/1060471057/Douban/blob/master/Photo/20190707235058.png)
 
-
-
-
-
-
-
-
 ![](https://github.com/1060471057/Douban/blob/master/Photo/20190707235125.png)
-
 解决：改jsp的时候不小心删除了head标签导致引入放置的位置不对，后去绝对路径则是换了种方法来解决 ${pageContext.request.contextPath}
